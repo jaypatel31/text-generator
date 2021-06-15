@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-generator/static/css/main.8af7c7f9.chunk.css",
+    "main.js": "/text-generator/static/js/main.c632ae96.chunk.js",
+    "main.js.map": "/text-generator/static/js/main.c632ae96.chunk.js.map",
+    "runtime-main.js": "/text-generator/static/js/runtime-main.5e259a88.js",
+    "runtime-main.js.map": "/text-generator/static/js/runtime-main.5e259a88.js.map",
+    "static/js/2.0052b7e0.chunk.js": "/text-generator/static/js/2.0052b7e0.chunk.js",
+    "static/js/2.0052b7e0.chunk.js.map": "/text-generator/static/js/2.0052b7e0.chunk.js.map",
+    "static/js/3.01aad411.chunk.js": "/text-generator/static/js/3.01aad411.chunk.js",
+    "static/js/3.01aad411.chunk.js.map": "/text-generator/static/js/3.01aad411.chunk.js.map",
+    "index.html": "/text-generator/index.html",
+    "static/css/main.8af7c7f9.chunk.css.map": "/text-generator/static/css/main.8af7c7f9.chunk.css.map",
+    "static/js/2.0052b7e0.chunk.js.LICENSE.txt": "/text-generator/static/js/2.0052b7e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e259a88.js",
+    "static/js/2.0052b7e0.chunk.js",
+    "static/css/main.8af7c7f9.chunk.css",
+    "static/js/main.c632ae96.chunk.js"
+  ]
+}
